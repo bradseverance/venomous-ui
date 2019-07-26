@@ -1,2 +1,2 @@
-# venomous
-Financial Application using the Venom Stack
+# venomous ui
+Financial Application UI using the Venom Stack
